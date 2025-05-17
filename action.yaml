@@ -1,5 +1,8 @@
 name: Reykr
 description: Reykr service mesh smoke tests.
+branding:
+  icon: check-square
+  color: blue
 
 runs:
   using: composite
