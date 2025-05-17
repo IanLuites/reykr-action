@@ -1,4 +1,4 @@
-name: Reykr
+name: Reykr Action
 description: Reykr service mesh smoke tests.
 branding:
   icon: check-square
